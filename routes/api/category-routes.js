@@ -62,7 +62,8 @@ router.put('/:id', (req, res) => {
     {
     category_name: req.body.category_name
     },
-    {where: {
+    {
+      where: {
       id: req.params.id
       }
     }
