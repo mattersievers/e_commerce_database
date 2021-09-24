@@ -33,6 +33,10 @@
   Use the command:  
    `node server`  
   to initiate the server. The GET routes can be checked through either a browser or through an interface like Insomnia Core. The POST, PUT, and DELETE routes may also be tested through Insomnia Core.
+  - [Video Walkthrough Part 1](https://watch.screencastify.com/v/q8sjMzscapm2dbwi3TU4)
+  - [Video Walkthrough Part 2](https://watch.screencastify.com/v/TCxgtd6o1fi9JPKwzlmn)
+
+
   
   ## License
   No license.
